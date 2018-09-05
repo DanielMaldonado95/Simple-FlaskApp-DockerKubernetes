@@ -1,0 +1,1 @@
+It you want to run the docker uses the ip 192.168.99.100 with the port
